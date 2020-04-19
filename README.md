@@ -29,3 +29,9 @@ Google might flag you as a 'bot' if you are facing 503' error's you might even b
 Just use proxychains or FoxyProxy's browser plugin.
 
 Check out the article from [opsdisk](https://github.com/opsdisk/pagodo#google-is-blocking-me)
+
+****
+
+<a href="https://www.buymeacoffee.com/tuxcmd" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/lato-black.png" alt="Buy Me A Coffee" style="height: 30px !important;width: 150px !important;" ></a>
+
+****
