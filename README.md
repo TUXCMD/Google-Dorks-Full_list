@@ -1,4 +1,4 @@
-# Google-Dorks-Full_list|
+# Google-Dorks-Full_list
 
 		Maintainer: TUXCMD
 		Contributors: BullsEye0
@@ -10,6 +10,10 @@
 Approx 10.000 lines of Google dorks search queries!
 please initiate a pull request in order to contribute and have your findings added!
 I will try to keep this list up- to date whenever I've some spare time left.
+
+****
+![Screenshot](/img/img1.gif)
+****
 
 **Warning:**
 > It is an illegal act to build a database with Google Dorks. 
