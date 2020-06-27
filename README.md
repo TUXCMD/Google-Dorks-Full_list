@@ -32,7 +32,7 @@ Click [here for the full list](https://github.com/TUXCMD/Google-Dorks-Full_list/
 
 or
 
-Click [here for the .txt RAW list[(https://raw.githubusercontent.com/TUXCMD/Google-Dorks-Full_list/master/googledorks_full.txt)
+Click [here for the .txt RAW list](https://raw.githubusercontent.com/TUXCMD/Google-Dorks-Full_list/master/googledorks_full.txt)
 
 ### Google admin dorks 
 
