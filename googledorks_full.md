@@ -12,7 +12,7 @@
           
 **** USE AT YOUR OWN RISK - ONLY USE THIS FOR RESEARCH PURPOSES ONLY ****
 
-Maintainer: TUXCMD		Contributors: BullsEye0		License: MiT 	Latest version: April 2020
+Maintainer: TUXCMD		Contributors: BullsEye0		License: MiT 	Latest version: June 2020
 
 
 ## Full list
