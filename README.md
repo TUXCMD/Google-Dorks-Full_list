@@ -8,6 +8,7 @@
 ## Changelog
 
 	Updated the full list
+	Added google forks in .txt format
 	Added Google'Admin' dorks section in .txt format
 	Updated the README.MD
 	Added exploit-DB (Database)
@@ -21,9 +22,17 @@ I will try to keep this list up- to date whenever I've some spare time left.
 
 		Feel free to contribute to this repo! 
 
+****
+![Screenshot](/img/img1.gif)
+****
+
 ### Google dorks (googledorks_full.md)
 
 Click [here for the full list](https://github.com/TUXCMD/Google-Dorks-Full_list/blob/master/googledorks_full.md) 
+
+or
+
+Click [here for the .txt RAW list[(https://raw.githubusercontent.com/TUXCMD/Google-Dorks-Full_list/master/googledorks_full.txt)
 
 ### Google admin dorks 
 
@@ -31,11 +40,7 @@ Use the following syntax
 
 `site:targetwebite.com inurl:admindork`
 
-Click [here for the full admin dork list](https://github.com/TUXCMD/Google-Dorks-Full_list/blob/master/admindorks_full.txt)
-
-****
-![Screenshot](/img/img1.gif)
-****
+Click [here for the .txt RAW full admin dork list](https://github.com/TUXCMD/Google-Dorks-Full_list/blob/master/admindorks_full.txt)
 
 **Warning:**
 > It is an illegal act to build a database with Google Dorks. 
